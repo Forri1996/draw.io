@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T06:30:59.754Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="esynK2TRCinIn4gQJKwV" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T06:46:48.736Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="N6kJUSV1Q8kh0jN5mcFU" version="21.3.2" type="github">
   <diagram name="第 1 页" id="qhITd_Xg--TJa-QcaCBj">
     <mxGraphModel dx="954" dy="616" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -28,20 +28,20 @@
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-7" target="MnfCELMRRn-xuZtHxBhQ-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-7" value="AbstractSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="300" width="120" height="30" as="geometry" />
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-7" value="AbstractSet&lt;br&gt;提供Set接口的默认实现方法,简化了Set接口的实现" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-8" target="MnfCELMRRn-xuZtHxBhQ-7">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-8" target="MnfCELMRRn-xuZtHxBhQ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-8" value="HashSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="370" width="120" height="30" as="geometry" />
+          <mxGeometry x="420" y="435" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-9" target="MnfCELMRRn-xuZtHxBhQ-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-9" value="EnumSet&lt;br&gt;主要用于存放enum类型的set" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="370" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="435" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-10" target="MnfCELMRRn-xuZtHxBhQ-7">
           <mxGeometry relative="1" as="geometry" />
@@ -49,14 +49,14 @@
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;dashed=1;dashPattern=8 8;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-10" target="MnfCELMRRn-xuZtHxBhQ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-10" value="TreeSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="370" width="120" height="30" as="geometry" />
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-10" value="TreeSet&lt;br&gt;有序集合,范围查找,快速查找,返回首/尾元素,正确判断集合相等性等功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="610" y="435" width="180" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-11" target="MnfCELMRRn-xuZtHxBhQ-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-11" value="LinkedHashSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="460" width="120" height="30" as="geometry" />
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-11" value="LinkedHashSet&lt;br&gt;有序的hashSet。可以实现LRU缓存功能" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="525" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-14" target="MnfCELMRRn-xuZtHxBhQ-1">
           <mxGeometry relative="1" as="geometry" />
@@ -68,19 +68,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-20" value="JumboEnumSet&lt;br&gt;元素数量较多，多余64个。比如颜色" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="90" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-21" target="MnfCELMRRn-xuZtHxBhQ-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-21" value="RegularEnumSet&lt;br&gt;元素数量较少，小于64个，比如周" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="240" y="525" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="MnfCELMRRn-xuZtHxBhQ-24" target="MnfCELMRRn-xuZtHxBhQ-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-24" value="NavigableSet" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="310" width="120" height="30" as="geometry" />
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-24" value="NavigableSet&lt;br&gt;在SortedSet的基础上提供更加便捷的导航和访问集合元素的方法" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="795" y="310" width="130" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
