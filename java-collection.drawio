@@ -1,28 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T07:25:36.396Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vbH11oZuGD3ZLZ9xNHUl" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T07:30:53.049Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="vCqb2wbCUQdPEo8NaTWI" version="21.3.2" type="github">
   <diagram name="第 1 页" id="qhITd_Xg--TJa-QcaCBj">
-    <mxGraphModel dx="763" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="734" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="XMfdTYcQhxkG6gX6pJ5N-2" value="Collection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="XMfdTYcQhxkG6gX6pJ5N-2" value="Collection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1270" y="70" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-1" target="XMfdTYcQhxkG6gX6pJ5N-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-1" value="Set" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-1" value="Set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="420" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-2" target="XMfdTYcQhxkG6gX6pJ5N-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-2" value="List" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-2" value="List" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1270" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-3" target="XMfdTYcQhxkG6gX6pJ5N-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-3" value="Queue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-3" value="Queue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2100" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;dashed=1;dashPattern=8 8;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-7" target="MnfCELMRRn-xuZtHxBhQ-1" edge="1">
@@ -38,19 +38,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-7" value="AbstractSet&lt;br&gt;提供Set接口的默认实现方法,简化了Set接口的实现" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-7" value="AbstractSet&lt;br&gt;提供Set接口的默认实现方法,简化了Set接口的实现" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="420" y="410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-8" target="MnfCELMRRn-xuZtHxBhQ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-8" value="HashSet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-8" value="HashSet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="510" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-9" target="MnfCELMRRn-xuZtHxBhQ-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-9" value="EnumSet&lt;br&gt;主要用于存放enum类型的set" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-9" value="EnumSet&lt;br&gt;主要用于存放enum类型的set" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="510" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-10" target="MnfCELMRRn-xuZtHxBhQ-7" edge="1">
@@ -59,37 +59,37 @@
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;dashed=1;dashPattern=8 8;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-10" target="MnfCELMRRn-xuZtHxBhQ-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-10" value="TreeSet&lt;br&gt;有序集合,范围查找,快速查找,返回首/尾元素,正确判断集合相等性等功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-10" value="TreeSet&lt;br&gt;有序集合,范围查找,快速查找,返回首/尾元素,正确判断集合相等性等功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="610" y="510" width="180" height="65" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-11" target="MnfCELMRRn-xuZtHxBhQ-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-11" value="LinkedHashSet&lt;br&gt;有序的hashSet。可以实现LRU缓存功能" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-11" value="LinkedHashSet&lt;br&gt;有序的hashSet。可以实现LRU缓存功能" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="420" y="600" width="120" height="55" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-14" target="MnfCELMRRn-xuZtHxBhQ-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-14" value="SortedSet" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-14" value="SortedSet" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="800" y="350" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-20" target="MnfCELMRRn-xuZtHxBhQ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-20" value="JumboEnumSet&lt;br&gt;元素数量较多，多余64个。比如颜色" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-20" value="JumboEnumSet&lt;br&gt;元素数量较多，多余64个。比如颜色" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-21" target="MnfCELMRRn-xuZtHxBhQ-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-21" value="RegularEnumSet&lt;br&gt;元素数量较少，小于64个，比如周" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-21" value="RegularEnumSet&lt;br&gt;元素数量较少，小于64个，比如周" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="240" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-24" target="MnfCELMRRn-xuZtHxBhQ-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-24" value="NavigableSet&lt;br&gt;在SortedSet的基础上提供更加便捷的导航和访问集合元素的方法" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-24" value="NavigableSet&lt;br&gt;在SortedSet的基础上提供更加便捷的导航和访问集合元素的方法" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="795" y="420" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.2;entryY=1.117;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-29" target="XMfdTYcQhxkG6gX6pJ5N-2" edge="1">
@@ -100,7 +100,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-29" value="AbstractCollection" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-29" value="AbstractCollection" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1090" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;dashed=1;dashPattern=8 8;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-32" target="MnfCELMRRn-xuZtHxBhQ-2" edge="1">
@@ -116,13 +116,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-32" value="AbstractList" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-32" value="AbstractList" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1270" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-35" target="MnfCELMRRn-xuZtHxBhQ-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-35" value="SubList&lt;br&gt;AbstractList的内部类，代表了父列表中的一段连续元素区间" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-35" value="SubList&lt;br&gt;AbstractList的内部类，代表了父列表中的一段连续元素区间" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1270" y="380" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-36" target="MnfCELMRRn-xuZtHxBhQ-32" edge="1">
@@ -133,7 +133,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-36" value="ArrayList&lt;br&gt;适用于高频的查找" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-36" value="ArrayList&lt;br&gt;适用于高频的查找" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1130" y="470" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-37" target="MnfCELMRRn-xuZtHxBhQ-32" edge="1">
@@ -144,13 +144,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-37" value="Vector&lt;br&gt;线程安全。常选择ArrayList+Collections&lt;br&gt;.synchronizedList(),而非Vector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-37" value="Vector&lt;br&gt;线程安全。常选择ArrayList+Collections&lt;br&gt;.synchronizedList(),而非Vector" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1600" y="440" width="130" height="80" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-38" target="MnfCELMRRn-xuZtHxBhQ-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-38" value="AbstractSequentiaList" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-38" value="AbstractSequentiaList" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="1430" y="390" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-43" target="MnfCELMRRn-xuZtHxBhQ-38" edge="1">
@@ -165,19 +165,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-43" value="LinkedList&lt;br&gt;适用于高频的写操作&lt;br&gt;实现了Deque，可以当作双端队列来使用" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-43" value="LinkedList&lt;br&gt;适用于高频的写操作&lt;br&gt;实现了Deque，可以当作双端队列来使用" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1440" y="470" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-47" target="MnfCELMRRn-xuZtHxBhQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-47" value="Deque" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-47" value="Deque" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="1890" y="190" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MnfCELMRRn-xuZtHxBhQ-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;dashed=1;dashPattern=8 8;" parent="1" source="MnfCELMRRn-xuZtHxBhQ-50" target="MnfCELMRRn-xuZtHxBhQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="MnfCELMRRn-xuZtHxBhQ-50" value="AbstractQueue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="MnfCELMRRn-xuZtHxBhQ-50" value="AbstractQueue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="2100" y="310" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;dashed=1;dashPattern=8 8;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-1" target="MnfCELMRRn-xuZtHxBhQ-47" edge="1">
@@ -193,25 +193,25 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-1" value="ArrayDeque&lt;br&gt;快速随机访问使用ArrayDeque&lt;br&gt;高速插入和删除用LinkedList" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-1" value="ArrayDeque&lt;br&gt;快速随机访问使用ArrayDeque&lt;br&gt;高速插入和删除用LinkedList" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1890" y="370" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-3" target="MnfCELMRRn-xuZtHxBhQ-50" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-3" value="PriorityQueue&lt;br&gt;可以以优先级顺序访问元素,适用于需要优先级排序的队列场景" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-3" value="PriorityQueue&lt;br&gt;可以以优先级顺序访问元素,适用于需要优先级排序的队列场景" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2090" y="445" width="140" height="65" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-6" target="MnfCELMRRn-xuZtHxBhQ-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-6" value="BlockingQueue&lt;br&gt;继承于Queue,并添加阻塞方法,用来处理队列满和空的状态" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-6" value="BlockingQueue&lt;br&gt;继承于Queue,并添加阻塞方法,用来处理队列满和空的状态" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2270" y="310" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-8" target="BJBh6bCJ0BKxdYCHWpMT-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-8" value="TransferQueue" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-8" value="TransferQueue" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="2899.5" y="335" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;endArrow=block;endFill=1;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-9" target="BJBh6bCJ0BKxdYCHWpMT-6" edge="1">
@@ -222,20 +222,20 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-9" value="BlockingDeque" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-9" value="BlockingDeque" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="3154" y="425" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;endArrow=block;endFill=1;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-11" target="BJBh6bCJ0BKxdYCHWpMT-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-11" value="LinkedBlockingDeque&lt;br&gt;同时具有阻塞队列和双端队列的特征,支持超时、中断、同步控制等特性" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-11" value="LinkedBlockingDeque&lt;br&gt;同时具有阻塞队列和双端队列的特征,支持超时、中断、同步控制等特性" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="3110" y="510" width="210" height="68" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;endArrow=block;endFill=1;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-16" target="BJBh6bCJ0BKxdYCHWpMT-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-16" value="LinkedTransferQueue&lt;br&gt;主要适用于以下场景:&lt;span style=&quot;box-sizing: inherit; display: block; height: 8px; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot; data-stringify-type=&quot;paragraph-break&quot; class=&quot;c-mrkdwn__br&quot; aria-label=&quot;&quot;&gt;&lt;/span&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 需要无界队列或链表实现的场景。&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 需要支持生产者和消费者“线程内部传输”的场景。&amp;nbsp;&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 需要公平的锁定策略和中断支持的阻塞队列场景。&lt;/span&gt;&lt;br style=&quot;box-sizing: inherit; color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;&lt;span style=&quot;color: rgb(29, 28, 29); font-family: NotoSansSC, Slack-Lato, Slack-Fractions, appleLogo, sans-serif; font-size: 15px; font-variant-ligatures: common-ligatures; text-align: left; background-color: rgb(248, 248, 248);&quot;&gt;- 需要支持超时阻塞操作的场景。&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2840" y="512" width="239" height="200" as="geometry" />
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-16" value="LinkedTransferQueue&lt;br&gt;&lt;div&gt;主要适用于以下场景:&lt;/div&gt;&lt;div&gt;- 需要无界队列或链表实现的场景。&amp;nbsp;&lt;/div&gt;&lt;div&gt;- 需要支持生产者和消费者“线程内部传输”的场景。&amp;nbsp;&lt;/div&gt;&lt;div&gt;- 需要公平的锁定策略和中断支持的阻塞队列场景。&lt;/div&gt;&lt;div&gt;- 需要支持超时阻塞操作的场景。&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="2840" y="512" width="239" height="128" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;dashPattern=8 8;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-19" target="BJBh6bCJ0BKxdYCHWpMT-6" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -245,7 +245,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-19" value="LinkedBlockingQueue&lt;br&gt;LinkedBlockingQueue是一个可选有界或无界的阻塞队列，采用先进先出的原则，底层基于链表实现，适用于多线程环境下的数据交换和共享。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-19" value="LinkedBlockingQueue&lt;br&gt;LinkedBlockingQueue是一个可选有界或无界的阻塞队列，采用先进先出的原则，底层基于链表实现，适用于多线程环境下的数据交换和共享。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="1948" y="590" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-20" target="BJBh6bCJ0BKxdYCHWpMT-6" edge="1">
@@ -256,7 +256,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-20" value="ArrayBlockingQueue&lt;br&gt;ArrayBlockingQueue是一个有界、阻塞的队列，采用先进先出的原则，底层基于数组实现，适用于多线程环境下的数据交换和共享。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-20" value="ArrayBlockingQueue&lt;br&gt;ArrayBlockingQueue是一个有界、阻塞的队列，采用先进先出的原则，底层基于数组实现，适用于多线程环境下的数据交换和共享。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2090" y="590" width="120" height="150" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-21" edge="1">
@@ -268,7 +268,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-21" value="DelayQueue&lt;br&gt;基于优先级堆的延时队列实现。它需要元素实现Delayed接口来获取自己的延时信息,并可以在delay时间到达后访问这些元素" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-21" value="DelayQueue&lt;br&gt;基于优先级堆的延时队列实现。它需要元素实现Delayed接口来获取自己的延时信息,并可以在delay时间到达后访问这些元素" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2240" y="590" width="120" height="120" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-23" edge="1">
@@ -280,7 +280,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-23" value="SynchronousQueue&lt;br&gt;容量为零、同步阻塞的队列，只能容纳一个元素，用于高效的线程间数据交换。" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-23" value="SynchronousQueue&lt;br&gt;容量为零、同步阻塞的队列，只能容纳一个元素，用于高效的线程间数据交换。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2390" y="590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;dashed=1;dashPattern=8 8;" parent="1" source="BJBh6bCJ0BKxdYCHWpMT-24" edge="1">
@@ -292,7 +292,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-24" value="PriorityBlockingQueue&lt;br&gt;基于优先级排序的无界阻塞队列，可以动态地增长，并支持公平或非公平访问策略，用于按优先级处理元素的场景" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="BJBh6bCJ0BKxdYCHWpMT-24" value="PriorityBlockingQueue&lt;br&gt;基于优先级排序的无界阻塞队列，可以动态地增长，并支持公平或非公平访问策略，用于按优先级处理元素的场景" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="2540" y="590" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="BJBh6bCJ0BKxdYCHWpMT-32" value="ArrayBlockingQueue是有界队列，使用数组作为内部存储结构，适用于固定容量且吞吐量要求高的场景；LinkedBlockingQueue是可选有界或无界队列，使用链表作为内部存储结构，适用于动态调整容量或无限制大小的场景。" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -301,8 +301,17 @@
         <mxCell id="ikTu6_UhA2VXc5DXvszl-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.683;entryY=0.98;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;endArrow=block;endFill=1;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-1" target="MnfCELMRRn-xuZtHxBhQ-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ikTu6_UhA2VXc5DXvszl-1" value="&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;ConcurrentSkipListSet&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 255); color: rgb(8, 8, 8); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt;&quot;&gt;基于Skip List数据结构，适用于并发环境和需要排序及高效查找操作的场景&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ikTu6_UhA2VXc5DXvszl-1" value="&lt;div&gt;ConcurrentSkipListSet&lt;/div&gt;&lt;div&gt;基于Skip List数据结构，适用于并发环境和需要排序及高效查找操作的场景&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="793" y="650" width="180" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ikTu6_UhA2VXc5DXvszl-4" value="接口" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="90" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikTu6_UhA2VXc5DXvszl-5" value="抽象类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="90" y="80" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ikTu6_UhA2VXc5DXvszl-6" value="实现类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="80" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
