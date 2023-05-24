@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-05-24T08:00:32.217Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="p1y7A30B5eygLunwNfQ6" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-24T08:00:49.364Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="xMHERkPsU-h2adhhGVOQ" version="21.3.2" type="github">
   <diagram name="第 1 页" id="qhITd_Xg--TJa-QcaCBj">
-    <mxGraphModel dx="545" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1272" dy="704" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -314,31 +314,31 @@
           <mxGeometry x="90" y="120" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-7" value="Map" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="300" y="800" width="120" height="30" as="geometry" />
+          <mxGeometry x="190" y="710" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.789;entryY=0.943;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;dashPattern=8 8;endArrow=block;endFill=1;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-8" target="ikTu6_UhA2VXc5DXvszl-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-8" value="AbstractMap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="550" y="930" width="120" height="30" as="geometry" />
+          <mxGeometry x="440" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-9" target="ikTu6_UhA2VXc5DXvszl-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-9" value="SortedMap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="870" width="120" height="30" as="geometry" />
+          <mxGeometry x="90" y="780" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=block;endFill=1;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-10" target="ikTu6_UhA2VXc5DXvszl-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-10" value="NavigableMap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="200" y="930" width="120" height="30" as="geometry" />
+          <mxGeometry x="90" y="840" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-11" target="ikTu6_UhA2VXc5DXvszl-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-11" value="HashMap" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1010" width="120" height="30" as="geometry" />
+          <mxGeometry x="230" y="920" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;dashPattern=8 8;endArrow=block;endFill=1;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-12" target="ikTu6_UhA2VXc5DXvszl-10">
           <mxGeometry relative="1" as="geometry" />
@@ -347,35 +347,35 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-12" value="TreeMap&lt;br&gt;TreeMap是基于红黑树数据结构的有序映射实现，适用于需要有序性和范围检索的场景。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="200" y="1010" width="120" height="90" as="geometry" />
+          <mxGeometry x="90" y="920" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-13" target="ikTu6_UhA2VXc5DXvszl-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="960" as="targetPoint" />
+            <mxPoint x="310" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-13" value="WeekHashMap&lt;br&gt;使用弱引用键实现的映射，适用于缓存、监听器管理和动态关联关系等场景，能够自动移除不再被引用的键值对，帮助释放内存资源和避免内存泄漏。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="480" y="1010" width="120" height="160" as="geometry" />
+          <mxGeometry x="370" y="920" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-14" target="ikTu6_UhA2VXc5DXvszl-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-14" value="EnumMap&lt;br&gt;EnumMap是一种专为枚举类型设计的高效、紧凑的映射实现，适用于枚举类型的映射、计数统计和关联操作，具有高性能、有序性和紧凑的存储结构。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1010" width="120" height="140" as="geometry" />
+          <mxGeometry x="510" y="920" width="120" height="140" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-15" target="ikTu6_UhA2VXc5DXvszl-8">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="420" y="960" as="targetPoint" />
+            <mxPoint x="310" y="870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-15" value="IdentityHashMap&lt;br&gt;是一种根据引用相等性判断键的相等性的映射实现，适用于需要基于引用相等性进行操作和自定义相等性判断的场景，但不支持null键，并且需要注意其非线程安全性。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="760" y="1010" width="120" height="160" as="geometry" />
+          <mxGeometry x="650" y="920" width="120" height="160" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=1;" edge="1" parent="1" source="ikTu6_UhA2VXc5DXvszl-16" target="ikTu6_UhA2VXc5DXvszl-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ikTu6_UhA2VXc5DXvszl-16" value="LinkedHashMap&lt;br&gt;LinkedHashMap是一种有序映射实现，维护插入顺序或访问顺序，适用于需要保持插入顺序、实现LRU缓存或缓存场景，具有快速访问和不允许空键的特性。" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
-          <mxGeometry x="340" y="1150" width="120" height="140" as="geometry" />
+          <mxGeometry x="230" y="1060" width="120" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
